@@ -29,6 +29,10 @@
 			<div class="destination" id="sydney">
                 <h2>sydney</h2>
             </div>
+
+			<div class="destination" id="andaman">
+                <h2>andaman</h2>
+            </div>
         </div>
     </div>
 
